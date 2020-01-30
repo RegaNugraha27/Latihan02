@@ -21,12 +21,17 @@ else:
   print(bil_3, "terbesar dan", bil_2, "terbesar") 
   else: 
   print(bil_3, "terbesar dan", bil_1, "terkecil")
+![2](https://user-images.githubusercontent.com/60466120/73440712-6657de00-4384-11ea-96bf-2b289727efd8.png)
 
 Contoh:
 #Bil_1 Lebih Besar:
+![contoh 1](https://user-images.githubusercontent.com/60466120/73440715-66f07480-4384-11ea-8de3-3a7efd457394.png)
 
 #Bil_2 Lebih Besar:
+![contoh 2](https://user-images.githubusercontent.com/60466120/73440717-66f07480-4384-11ea-97e5-fbfc62c7387c.png)
 
 #Bil_3 Lebih Besar:
+![contoh 3](https://user-images.githubusercontent.com/60466120/73440718-67890b00-4384-11ea-9c2f-9e4f43ca66c9.png)
 
 Flowchart Mencari Bilangan Terbesar.
+![Flowchart](https://user-images.githubusercontent.com/60466120/73440721-67890b00-4384-11ea-820f-47a45a20776b.png)
